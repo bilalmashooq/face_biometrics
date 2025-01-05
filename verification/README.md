@@ -141,10 +141,10 @@ evaluate_single_csv("results_model1.csv", model_name="Facenet")
 ## Screenshots
 
 ### Registration Tab:
-- !![img_2.png](img_2.png)
+![Registration Tab](assets/img_2.png)
 
 ### Verification Tab:
-- ![img_1.png](img_1.png)
+![Verification Tab](assets/img_1.png)
 
 ---
 
@@ -152,13 +152,4 @@ evaluate_single_csv("results_model1.csv", model_name="Facenet")
 
 This project is licensed under the MIT License.
 
----
 
-## Contact
-
-- **Author:** Muhammad Bilal
-
-
----
-
-If you have any additional content or screenshots you'd like to add, let me know!
