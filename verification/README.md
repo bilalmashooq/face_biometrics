@@ -152,13 +152,4 @@ evaluate_single_csv("results_model1.csv", model_name="Facenet")
 
 This project is licensed under the MIT License.
 
----
 
-## Contact
-
-- **Author:** Muhammad Bilal
-
-
----
-
-If you have any additional content or screenshots you'd like to add, let me know!
