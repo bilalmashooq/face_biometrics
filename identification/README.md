@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project implements a **Face Identification System** using deep learning models integrated with a user-friendly **PyQt5-based GUI**. The system supports face registration and identification, allowing multiple registered faces to be recognized in real time.
+This project implements a **Face Identification System** using deep learning models integrated with a user-friendly **PyQt5-based GUI**. The system supports face registration and identification, allowing multiple registered faces to be recognized in real-time.
 
 ---
 
@@ -30,11 +30,11 @@ This project implements a **Face Identification System** using deep learning mod
 ## Files Description
 
 1. **`main_identification.py`:**
-   - Main script for the GUI application, providing functionality for face registration and identification.
+   - Main script for the GUI application, providing face registration and identification functionality.
    - Automates embedding generation for datasets to speed up recognition.
 
-2. **`evalution_identification.ipynb`:**
-   - Jupyter Notebook for evaluating model performance, analyzing embeddings, and visualizing results.
+2. **`evalution1/2.py`:**
+   - Python files are used to evaluate model performance, analyze embeddings, and visualize results.
 
 
 ### Step 3: Set Up Dataset
