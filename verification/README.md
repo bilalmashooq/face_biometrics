@@ -141,10 +141,10 @@ evaluate_single_csv("results_model1.csv", model_name="Facenet")
 ## Screenshots
 
 ### Registration Tab:
-- !![Image Description](verification/assets/img_2)
+- ![Image Description](verification/assets/img_2)
 
 ### Verification Tab:
-- !![Image Description](verification/assets/img_1.png)
+- ![Image Description](verification/assets/img_1.png)
 
 ---
 
