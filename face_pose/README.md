@@ -81,7 +81,7 @@ face-pose-estimation/
 ├── pose_estimation_app.py        # Main application script
 ├── README.md                     # Project documentation
 
-
+```
 ## Known Issues
 
 - Model loading errors if paths are incorrect. Update model paths in `pose_estimation_app.py`.
