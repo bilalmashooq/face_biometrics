@@ -1,6 +1,4 @@
-Here's a README file for your pose estimation application:
 
-```markdown
 # Face Pose Estimation Application
 
 This project is a **Face Pose Estimation** application that utilizes **Mediapipe**, **PyQt5**, and **Machine Learning models** to detect and predict head pose in images and videos. The application provides a graphical user interface (GUI) to analyze face poses using two models based on facial landmarks.
