@@ -1,4 +1,4 @@
-# Title: Gender Classification Using Machine Learning
+# Gender Classification Using Machine Learning
 
 This project revolves around building a gender classification model using machine learning. It involves loading images, training gender classifying models, making predictions, and evaluating model performance.
 

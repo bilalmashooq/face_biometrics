@@ -50,8 +50,8 @@ The repository includes Python scripts for embedding extraction, dataset managem
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/face-verification-system.git
-   cd face-verification-system
+   git clone https://github.com/bilalmashooq/face_biometrics.git
+   cd face_biometrics/verification
    ```
 
 2. **Install dependencies:**
